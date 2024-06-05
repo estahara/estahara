@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+My name is Eduardo Sorrigotti Tahara
+I'm currently studying in Alura, progressing my JavaScript knowledge.
+I'll be using this space to organize and share my projects. 
 <!--
 **estahara/estahara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
